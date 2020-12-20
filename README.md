@@ -1,2 +1,1 @@
-# pokedex
-Pokedex made for internship
+# Basic-Pokedex-with-Gui
